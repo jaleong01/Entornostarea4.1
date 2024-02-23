@@ -27,6 +27,7 @@ JAVADOC
 Insertar comentarios JavaDoc en la clase CCuenta.
 Generar documentación JavaDoc para todo el proyecto y comprueba que abarca todos los métodos y atributos de la clase CCuenta.
 Criterios de puntuación. Total 10 puntos.
+
 Los criterios de puntuación serán los siguientes:
 
 Cambia el nombre de la variable "miCuenta" por "cuenta1". = 1 punto.
@@ -46,6 +47,7 @@ Conexión a Internet si precisas la instalación de GIT o trabajas con GitHub.
 
 
 Consejos y recomendaciones.
+
 Se pretende que realices las operaciones de refactorización, control de versiones y documentación de una aplicación. Se parte de la base, de que has adquirido conocimientos suficientes de programación.
 Indicaciones de entrega.
 Una vez realizada la tarea elaborarás un único documento donde figure la URL del repositorio github (contendrá el proyecto con el código refactorizado y con la documentación generada con javadoc) y una imagen con la respuesta a la actividad 8. El envío se realizará a través de la plataforma de la forma establecida para ello, y el archivo se nombrará siguiendo las siguientes pautas:
